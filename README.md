@@ -50,12 +50,9 @@ But here i'm going to focus on the TODO list that doesn't matter if it's open. a
 
 ### stat:
 
-<div align=center>
-
 ![steve.jeong's github stats](https://github-readme-stats.vercel.app/api?username=jkhgit&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkhgit&layout=compact&theme=vue)](https://github.com/jkhgit)
 
-</div>
 
 ### connect to: 💬
 <a href="https://github.com/jkhgit" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
