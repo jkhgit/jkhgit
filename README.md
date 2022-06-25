@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=right>
+<a href="https://github.com/jkhgit"><img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%230F0F0F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/jkhgit)
-
-</div>
 
 Hello, I'm an embedded software engineer from Korea's hard kernel. I work mainly on the Ubuntu kernel of the Odroid series.
 
@@ -32,19 +29,19 @@ But here i'm going to focus on the TODO list that doesn't matter if it's open. a
 
 **Skills:**
 
-<img src="https://img.shields.io/badge/C/C++-00599c?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gnu Bash-4eaa25?style=flat-square&logo=Gnu Bash&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/C/C++-00599c?style=flat-square&logo=C&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Linux-fcc624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Gnu Bash-4eaa25?style=flat-square&logo=Gnu Bash&logoColor=white"/></a>
 
 **Devops:**
 
-<img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 **Interesting:**
 
-<img src="https://img.shields.io/badge/ROS2-22314e?style=flat-square&logo=ROS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/ROS2-22314e?style=flat-square&logo=ROS&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 <hr>
 
