@@ -49,7 +49,7 @@ But here i'm going to focus on the TODO list that doesn't matter if it's open. a
 
 ### stat:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkhgit&show_  icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="jkhgit's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkhgit&layout=compact&theme=vue&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkhgit&show_  icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="jkhgit's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkhgit&layout=compact&show_icons=true&theme=vue&hide_border=true" /> |
 | ------------- | ------------- |
 
 
